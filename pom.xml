@@ -164,7 +164,7 @@
         <dependency>
             <groupId>org.apache.flume.flume-ng-sinks</groupId>
             <artifactId>flume-ng-hbase-sink</artifactId>
-            <version>1.6.0</version>
+            <version>1.11.0</version>
         </dependency>
 
     </dependencies>
